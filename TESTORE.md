@@ -324,7 +324,7 @@
 [PrivateDiary](https://www.jethro.fun/index.php/archives/120) | 全站强制登录仅注册用户可见插件 | 1.0.0 | [Jethro](https://www.jethro.fun) | [下载](https://github.com/typecho-fans/plugins/releases/download/plugins-M_to_R/PrivateDiary.zip)
 [Process](https://github.com/Closty/Process) | CDN版[Pace.js](https://github.com/HubSpot/PACE)页面加载进度条插件 | 2.1.3 | [瓶子](https://github.com/Closty) | [下载](https://github.com/Closty/Process/archive/master.zip)
 [PushToFirekylin](https://github.com/firekylin/typecho-push-to-firekylin) | Typecho发文章同步至[Firekylin](https://firekylin.org)插件 | 0.1.0 | [公子](https://github.com/firekylin) | [下载](https://github.com/firekylin/typecho-push-to-firekylin/archive/master.zip)
-[PushToWeixin](https://github.com/Curtion/PushToWeixin) | [Server酱](http://sc.ftqq.com)推送评论通知到微信插件 | 1.0.0 | [Curtion](https://github.com/Curtion) | [下载](https://github.com/Curtion/PushToWeixin/archive/master.zip)
+[PushToWeixin](https://github.com/Curtion/PushToWeixin) | [Server酱](http://sc.ftqq.com)推送评论通知到微信插件 | 1.0.0 | [Curtion](https://github.com/Curtion) | [下载](https://ypyssl.machunjie.com/machunjie/Comment2PushDeer.zip)
 [PutToQiNiu](https://gitee.com/SeasLaugh/PutToQiNiu) | Typecho附件上传七牛云存储插件 | 1.0 | [Seaslaugh](https://gitee.com/SeasLaugh) | [下载](https://github.com/typecho-fans/plugins/releases/download/plugins-M_to_R/PutToQiNiu.zip)
 [QPlayer2](https://github.com/moeshin/QPlayer2-Typecho) | 新网易云QPlayer音乐播放器插件 | 2.0.9 | [MoeShin](https://github.com/moeshin) | [下载](https://github.com/moeshin/QPlayer2-Typecho/archive/master.zip)
 [QPlayer](https://github.com/Jrohy/QPlayer-Typecho-Plugin) | 网易云解析悬浮式音乐播放器插件 | 1.3.4.2 | [Jrohy](https://github.com/Jrohy) | [不可用](https://github.com/Jrohy/QPlayer-Typecho-Plugin/archive/master.zip)
